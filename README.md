@@ -1,4 +1,35 @@
-## Hi there 👋
+## Hi there!🙂
+
+My name is Uzoamaka Anyaegbuna (you can call me Uzo).
+
+My mission is to create a world where creativity and art converge in the digital realm!
+
+Here you'll find a collection of my projects, experience, and skills in software development, automation, and more. I am passionate about using technology to solve real-world problems and continuously learning new skills.
+
+## 👧🏾About Me
+I have a background in Computer Science (Information Systems). I specialize in automation and data analysis, and have a passion for building things that'll make the world a lot simpler for the average person.
+
+## 🤹🏾Skills
+- **Programming Languages:** HTML, CSS
+- **Tools & Technologies:** Airtable, Zapier, Make
+
+## ⚒️Projects
+
+### [Web Based Financial Management System for Private Institutions](link-to-project-repository-or-demo)
+**Description:** My finaly year project built using HTML, CSS, JavaScript and PHP to ease the migration of financial management from manual to computerized processes in private institutions.
+
+### [Automated Grade Change System](link-to-project-repository-or-demo)
+**Description:** A system built using Airtable and Zapier to automate the result upload and change of grade process in a Babcock University.
+
+
+
+
+## Contact
+Feel free to reach out to me!
+- **Email:** uzoanyaegbuna@gmail.com
+- **LinkedIn:** [Uzoamaka's LinkedIn]([https://www.linkedin.com/in/jane-doe/](https://www.linkedin.com/in/uzoamaka-anyaegbuna-9b39751ab/))
+- **GitHub:** [Uzo's GitHub](https://github.com/uzoca)
+
 
 <!--
 **uzoca/uzoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
