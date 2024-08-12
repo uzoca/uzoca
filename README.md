@@ -15,7 +15,7 @@ I have a background in Computer Science (Information Systems). I specialize in a
 
 ## ⚒️Projects
 
-### [Web Based Financial Management System for Private Institutions]([link-to-project-repository-or-demo](https://github.com/uzoca/Web-Based-Financial-Management-System-for-Private-Institutions))
+### [Web Based Financial Management System for Private Institutions]((https://github.com/uzoca/Web-Based-Financial-Management-System-for-Private-Institutions))
 **Description:** My finaly year project built using HTML, CSS, JavaScript and PHP to ease the migration of financial management from manual to computerized processes in private institutions.
 
 ### [Automated Grade Change System]([link-to-project-repository-or-demo](https://github.com/uzoca/Grade-Change-and-Result-Upload-System-for-Babcock-University))
