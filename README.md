@@ -15,10 +15,10 @@ I have a background in Computer Science (Information Systems). I specialize in a
 
 ## ⚒️Projects
 
-### [Web Based Financial Management System for Private Institutions](link-to-project-repository-or-demo)
+### [Web Based Financial Management System for Private Institutions]([link-to-project-repository-or-demo](https://github.com/uzoca/Web-Based-Financial-Management-System-for-Private-Institutions))
 **Description:** My finaly year project built using HTML, CSS, JavaScript and PHP to ease the migration of financial management from manual to computerized processes in private institutions.
 
-### [Automated Grade Change System](link-to-project-repository-or-demo)
+### [Automated Grade Change System]([link-to-project-repository-or-demo](https://github.com/uzoca/Grade-Change-and-Result-Upload-System-for-Babcock-University))
 **Description:** A system built using Airtable and Zapier to automate the result upload and change of grade process in a Babcock University.
 
 
@@ -27,7 +27,7 @@ I have a background in Computer Science (Information Systems). I specialize in a
 ## Contact
 Feel free to reach out to me!
 - **Email:** uzoanyaegbuna@gmail.com
-- **LinkedIn:** [Uzoamaka's LinkedIn]([https://www.linkedin.com/in/jane-doe/](https://www.linkedin.com/in/uzoamaka-anyaegbuna-9b39751ab/))
+- **LinkedIn:** [Uzoamaka's LinkedIn]([https://www.linkedin.com/in/jane-doe/](https://www.linkedin.com/in/uzoamaka-anyaegbuna-9b39751ab/)
 - **GitHub:** [Uzo's GitHub](https://github.com/uzoca)
 
 
