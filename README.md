@@ -27,8 +27,8 @@ I have a background in Computer Science (Information Systems). I specialize in a
 ## Contact
 Feel free to reach out to me!
 - **Email:** uzoanyaegbuna@gmail.com
-- **LinkedIn:** [Uzoamaka's LinkedIn]((https://www.linkedin.com/in/uzoamaka-anyaegbuna-9b39751ab/))
-- **GitHub:** [Uzo's GitHub]((https://github.com/uzoca))
+- **LinkedIn:** [Uzoamaka's LinkedIn](https://www.linkedin.com/in/uzoamaka-anyaegbuna-9b39751ab/)
+- **GitHub:** [Uzo's GitHub](https://github.com/uzoca)
 
 
 <!--
