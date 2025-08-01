@@ -10,7 +10,7 @@ Here you'll find a collection of my projects, experience, and skills in software
 I have a background in Computer Science (Information Systems). I specialize in automation, data analysis and product management, and have a passion for building things that'll make the world a lot simpler for the average person.
 
 ## 🤹🏾Skills
-- **Programming Languages:** HTML, CSS, Python, SQL
+- **Computer/Programming Languages:** HTML, CSS, Python, SQL
 
 ## ⚒️Projects
 
